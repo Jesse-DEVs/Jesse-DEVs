@@ -8,6 +8,6 @@ Atualmente estou estudando Python. Estou sempre em busca de novos desafios e opo
 # Habilidades 
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white)
 # GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFFF&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jesse-DEVS&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFFF&text_color=FFF)
 # Minhas Contribuições 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jesse-DEVs)
