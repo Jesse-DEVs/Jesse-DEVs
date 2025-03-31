@@ -2,7 +2,7 @@
 Olá, meu nome é Jessé Miguel Ramos, sou estudante de Ciência da computação e desenvolvedor back-end.
 Atualmente estou estudando Python. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
 # Conect-se Comingo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jessé-miguel-ramos-275a75242)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jess%C3%A9-miguel-ramos-275a75242/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jmiiguel__/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5516997060633&text=Ol%C3%A1%20Jesse!%20)
 # Habilidades 
