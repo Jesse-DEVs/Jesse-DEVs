@@ -7,6 +7,7 @@ Atualmente estou estudando Python. Estou sempre em busca de novos desafios e opo
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5516997060633&text=Ol%C3%A1%20Jesse!%20)
 # Habilidades 
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=white)
 # GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jesse-DEVS&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFFF&text_color=FFF)
 # Minhas Contribuições 
